@@ -1,0 +1,27 @@
+/* Estilo general para el cuerpo de la página */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f9;
+    margin: 0;
+    padding: 0;
+}
+
+/* Contenedor principal */
+.container {
+    width: 80%;
+    margin: 0 auto;
+    text-align: center;
+    padding-top: 50px;
+}
+
+/* Estilo para el título */
+h1 {
+    color: #4CAF50;
+    font-size: 36px;
+}
+
+/* Estilo para el párrafo */
+p {
+    font-size: 18px;
+    color: #333;
+}
