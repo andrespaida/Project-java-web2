@@ -1,4 +1,4 @@
-# Project-java
+# Project-java-web2
 
 This project aims to showcase a simple web page built using **HTML** and **Java**. It is a basic demonstration of a static webpage that can be run locally using Docker.
 
